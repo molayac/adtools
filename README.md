@@ -2,7 +2,7 @@
 2017/Feb/06
 Project based on DS Windows Server commands.
 
-This projects use the dsquery, dsrem, dsadd, dsmod, and others ds commands for Active Directory Windows service.
+This projects use the dsquery, dsrem, dsadd, dsmod, and others ds commands to improve some Active Directory Windows actions.
 
 This project started on 2013 year as a help to reduce time and costs on simple actions like reset password, create users, and changes groups or update information to outsourcing services. 
 
